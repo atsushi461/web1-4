@@ -26,3 +26,8 @@ li{
     font-size: 0.8em;
     color:#008080;
 }
+#lead{
+    border-top: #6fbb9a 1px dotted;
+    text-align: center;
+}
+
