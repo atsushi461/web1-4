@@ -1,4 +1,9 @@
 @charset"UTF-8";
+
+body{
+    background-color: #ff0000;
+}
+
 h1{
     font-size: 1.75em;
     color:#008000;
