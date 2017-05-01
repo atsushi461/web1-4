@@ -1,0 +1,25 @@
+
+
+body{
+    background-color: #ff0000;
+    background-image:url(image1.JPG);
+    background-repeat: repeat-x;
+}
+
+h1{
+    font-size: 1.75em;
+    color:#008000;
+}
+h2{
+    font-size: 1.25em;
+    color:#008080;
+}
+p{
+    font-size: 0.8em;
+    background-color: #3399cc; 
+    color:#008000;
+}
+li{
+    font-size: 0.8em;
+    color:#008080;
+}
